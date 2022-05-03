@@ -1,0 +1,3 @@
+D:/Mohamed/problem solving/D. Lakes in Berland/cmake-build-debug/CMakeFiles/D__Lakes_in_Berland.dir
+D:/Mohamed/problem solving/D. Lakes in Berland/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/problem solving/D. Lakes in Berland/cmake-build-debug/CMakeFiles/rebuild_cache.dir
