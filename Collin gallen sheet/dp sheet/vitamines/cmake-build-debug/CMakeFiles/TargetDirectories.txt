@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 D:/Mohamed/problem solving/colin gallen/dp sheet/vitamines/cmake-build-debug/CMakeFiles/vitamines.dir
 D:/Mohamed/problem solving/colin gallen/dp sheet/vitamines/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Mohamed/problem solving/colin gallen/dp sheet/vitamines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+D:/Mohamed/problem solving/colin gallen/dp sheet/vitamines/cmake-build-debug/CMakeFiles/vitamines.dir
+D:/Mohamed/problem solving/colin gallen/dp sheet/vitamines/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/problem solving/colin gallen/dp sheet/vitamines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> 7153109ba3c196e9ee87104e597b371f4af578dc
