@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/General training/zero path/cmake-build-debug/CMakeFiles/zero_path.dir
+D:/Mohamed/Competitive progrmming/General training/zero path/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/General training/zero path/cmake-build-debug/CMakeFiles/rebuild_cache.dir

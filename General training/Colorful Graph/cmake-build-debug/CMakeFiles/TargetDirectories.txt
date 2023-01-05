@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/General training/Colorful Graph/cmake-build-debug/CMakeFiles/Colorful_Graph.dir
+D:/Mohamed/Competitive progrmming/General training/Colorful Graph/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/General training/Colorful Graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir

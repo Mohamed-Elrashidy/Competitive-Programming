@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/upsolve/Mirror grid/cmake-build-debug/CMakeFiles/Mirror_grid.dir
+D:/Mohamed/Competitive progrmming/upsolve/Mirror grid/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/upsolve/Mirror grid/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/General training/deposite/cmake-build-debug/CMakeFiles/deposite.dir
+D:/Mohamed/Competitive progrmming/General training/deposite/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/General training/deposite/cmake-build-debug/CMakeFiles/rebuild_cache.dir

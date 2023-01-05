@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/segment tree sheet/maximum segment sum/cmake-build-debug/CMakeFiles/maximum_segment_sum.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/maximum segment sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/maximum segment sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

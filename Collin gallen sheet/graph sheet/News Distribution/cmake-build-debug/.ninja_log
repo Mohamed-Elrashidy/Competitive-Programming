@@ -1,0 +1,15 @@
+# ninja log v5
+1	3268	6787130846430420	CMakeFiles/News_Distribution.dir/main.cpp.obj	71f044d0a51ff093
+3277	3587	6787130849543572	News_Distribution.exe	df79c97451304b51
+5	3248	6787131567719757	CMakeFiles/News_Distribution.dir/main.cpp.obj	71f044d0a51ff093
+3248	3596	6787131571130561	News_Distribution.exe	df79c97451304b51
+6	2627	6787137200959460	CMakeFiles/News_Distribution.dir/main.cpp.obj	71f044d0a51ff093
+2628	2868	6787137203303221	News_Distribution.exe	df79c97451304b51
+9	3711	6787155447157629	CMakeFiles/News_Distribution.dir/main.cpp.obj	71f044d0a51ff093
+3712	4080	6787155450787915	News_Distribution.exe	df79c97451304b51
+7	2281	6787155642674167	CMakeFiles/News_Distribution.dir/main.cpp.obj	71f044d0a51ff093
+2281	2518	6787155644996340	News_Distribution.exe	df79c97451304b51
+10	2760	6787156036614827	CMakeFiles/News_Distribution.dir/main.cpp.obj	71f044d0a51ff093
+2761	3085	6787156039823522	News_Distribution.exe	df79c97451304b51
+4	2662	6787156569968570	CMakeFiles/News_Distribution.dir/main.cpp.obj	71f044d0a51ff093
+2663	2933	6787156572606776	News_Distribution.exe	df79c97451304b51

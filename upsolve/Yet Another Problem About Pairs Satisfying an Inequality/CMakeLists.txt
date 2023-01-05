@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(Yet_Another_Problem_About_Pairs_Satisfying_an_Inequality)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Yet_Another_Problem_About_Pairs_Satisfying_an_Inequality main.cpp)

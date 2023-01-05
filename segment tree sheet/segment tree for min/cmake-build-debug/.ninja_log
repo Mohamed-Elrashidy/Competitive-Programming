@@ -1,0 +1,9 @@
+# ninja log v5
+0	3698	6838594102149605	CMakeFiles/segment_tree_for_min.dir/main.cpp.obj	57c2de1a8c17e524
+3746	4155	6838594106627619	segment_tree_for_min.exe	28b569060a2e6e3e
+8	2997	6838594845675080	CMakeFiles/segment_tree_for_min.dir/main.cpp.obj	57c2de1a8c17e524
+2998	3300	6838594848627201	segment_tree_for_min.exe	28b569060a2e6e3e
+9	2707	6838595089529680	CMakeFiles/segment_tree_for_min.dir/main.cpp.obj	57c2de1a8c17e524
+2708	2926	6838595091638951	segment_tree_for_min.exe	28b569060a2e6e3e
+4	2541	6838597305268226	CMakeFiles/segment_tree_for_min.dir/main.cpp.obj	57c2de1a8c17e524
+2541	2834	6838597308129079	segment_tree_for_min.exe	28b569060a2e6e3e

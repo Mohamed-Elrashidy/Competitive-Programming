@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/upsolve/Add Modulo 10/cmake-build-debug/CMakeFiles/Add_Modulo_10.dir
+D:/Mohamed/Competitive progrmming/upsolve/Add Modulo 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/upsolve/Add Modulo 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/Collin gallen sheet/graph sheet/New Year Transportation/cmake-build-debug/CMakeFiles/New_Year_Transportation.dir
+D:/Mohamed/Competitive progrmming/Collin gallen sheet/graph sheet/New Year Transportation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/Collin gallen sheet/graph sheet/New Year Transportation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

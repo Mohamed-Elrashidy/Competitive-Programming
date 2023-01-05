@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/General training/Parking Spaces/cmake-build-debug/CMakeFiles/Parking_Spaces.dir
+D:/Mohamed/Competitive progrmming/General training/Parking Spaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/General training/Parking Spaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir

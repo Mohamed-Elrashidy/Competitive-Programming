@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/Collin gallen sheet/graph sheet/substring/cmake-build-debug/CMakeFiles/substring.dir
+D:/Mohamed/Competitive progrmming/Collin gallen sheet/graph sheet/substring/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/Collin gallen sheet/graph sheet/substring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

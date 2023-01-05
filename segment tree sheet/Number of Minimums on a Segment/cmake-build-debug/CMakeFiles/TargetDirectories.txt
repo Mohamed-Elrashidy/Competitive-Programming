@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/segment tree sheet/Number of Minimums on a Segment/cmake-build-debug/CMakeFiles/Number_of_Minimums_on_a_Segment.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/Number of Minimums on a Segment/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/Number of Minimums on a Segment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

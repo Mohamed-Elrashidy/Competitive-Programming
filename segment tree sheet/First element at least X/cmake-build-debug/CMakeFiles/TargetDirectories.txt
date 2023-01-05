@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/segment tree sheet/First element at least X/cmake-build-debug/CMakeFiles/First_element_at_least_X.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/First element at least X/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/First element at least X/cmake-build-debug/CMakeFiles/rebuild_cache.dir

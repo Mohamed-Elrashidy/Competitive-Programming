@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/segment tree sheet/segment tree for min/cmake-build-debug/CMakeFiles/segment_tree_for_min.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/segment tree for min/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/segment tree for min/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/General training/RGB Substring (hard version)/cmake-build-debug/CMakeFiles/RGB_Substring__hard_version_.dir
+D:/Mohamed/Competitive progrmming/General training/RGB Substring (hard version)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/General training/RGB Substring (hard version)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/General training/The Number of Products/cmake-build-debug/CMakeFiles/The_Number_of_Products.dir
+D:/Mohamed/Competitive progrmming/General training/The Number of Products/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/General training/The Number of Products/cmake-build-debug/CMakeFiles/rebuild_cache.dir

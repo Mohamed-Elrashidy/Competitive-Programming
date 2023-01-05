@@ -1,0 +1,3 @@
+D:/Mohamed/Competitive progrmming/segment tree sheet/A. Segment Tree for the Sum/cmake-build-debug/CMakeFiles/A__Segment_Tree_for_the_Sum.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/A. Segment Tree for the Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mohamed/Competitive progrmming/segment tree sheet/A. Segment Tree for the Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
